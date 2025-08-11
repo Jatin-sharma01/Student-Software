@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Student-Software/static/css/main.f879cd21.css",
+    "main.js": "/Student-Software/static/js/main.6c94bb0b.js",
+    "static/js/453.ed3810f9.chunk.js": "/Student-Software/static/js/453.ed3810f9.chunk.js",
+    "static/media/student.png": "/Student-Software/static/media/student.0614db62d6fa48da8353.png",
+    "static/media/aboutus.png": "/Student-Software/static/media/aboutus.b0aad9bcb294f62366aa.png",
+    "static/media/browse4.png": "/Student-Software/static/media/browse4.c55e3ba8ab775e46cddd.png",
+    "static/media/register.png": "/Student-Software/static/media/register.7269bd551b7f3914f5c7.png",
+    "static/media/browse1.png": "/Student-Software/static/media/browse1.e19b038078c8f4c422b1.png",
+    "static/media/browse3.png": "/Student-Software/static/media/browse3.80d925ce4c0373bc4753.png",
+    "static/media/browse2.avif": "/Student-Software/static/media/browse2.f81caa6fc0ed9c8b1322.avif",
+    "static/media/logo.svg": "/Student-Software/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Student-Software/index.html",
+    "main.f879cd21.css.map": "/Student-Software/static/css/main.f879cd21.css.map",
+    "main.6c94bb0b.js.map": "/Student-Software/static/js/main.6c94bb0b.js.map",
+    "453.ed3810f9.chunk.js.map": "/Student-Software/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f879cd21.css",
+    "static/js/main.6c94bb0b.js"
+  ]
+}
