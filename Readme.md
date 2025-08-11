@@ -39,5 +39,3 @@ Built with **React** (frontend) and **Node.js + Express + MongoDB** (backend).
 - dotenv, cors
 
 ---
-
-## 📂 Project Structure
